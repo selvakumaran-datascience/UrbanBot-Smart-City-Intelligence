@@ -108,11 +108,11 @@ Authorities can monitor and manage complaints efficiently.
 # 🏗️ System Architecture
 
 ```text
-                        Smart City Cameras
-                               │
-                               ▼
-                     YOLOv8 Detection Models
-                               │
+               Smart City Cameras
+                       │
+                       ▼
+             YOLOv8 Detection Models
+                       │
         ┌──────────────┬───────────────┬
         ▼              ▼               ▼
    Accident      Traffic & Crowd   Road Damage
@@ -304,7 +304,7 @@ EMERGENCY_EMAIL=
 
 # 👨‍💻 Developer
 
-## Selvakumaran Muthusamy
+## SELVAKUMARAN MUTHUSAMY
 
 **Data Science | Machine Learning | AI | Cloud Computing**
 
@@ -330,5 +330,3 @@ EMERGENCY_EMAIL=
 ## ☁️ Deployment Architecture
 * The system is architected for high availability on AWS. The Streamlit frontend resides on EC2, while all incident logs and system states are persisted in Amazon RDS.
 
-# 👨‍💻 Developed By
-##  SELVAKUMARAN MUTHUSAMY Data Science Aspirant | Software Development & System Administration
